@@ -31,7 +31,7 @@ const [{ Z_UUID: uuid }] = db.prepare(GET_UUID).all();
 const allRows = db.prepare(GET_ROW).all();
 
 // Format via Alfred supported properties
-//
+
 const makeAlfyOutput = arr => {
   if (arr && arr.length) {
     return arr.map(itemObj => {
