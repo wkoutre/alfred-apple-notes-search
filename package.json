@@ -1,0 +1,22 @@
+{
+  "name": "alfred-apple-notes-search",
+  "version": "1.0.0",
+  "description": "Alfred workflow to search through your Apple Notes.",
+  "main": "index.js",
+  "author": {
+    "name": "Nick Koutrelakos",
+    "email": "wkoutre@gmail.com"
+  },
+  "scripts": {
+    "postinstall": "alfy-init && alfred-link",
+    "preuninstall": "alfy-cleanup && alfred-unlink"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "alfred-link": "^0.2.1",
+    "alfred-notifier": "^0.2.3",
+    "alfy": "*",
+    "better-sqlite3": "^4.1.4"
+  }
+}
