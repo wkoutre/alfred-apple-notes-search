@@ -12,4 +12,4 @@ In Alfred, enable the workflow, open Alfred, then type `n + <space> + <type_away
 
 ## Thanks
 
-Big thanks to the [alfy](https://github.com/sindresorhus/alfy) package to make it so easy to whip up Alfred workflows with JS!
+Big thanks to the [alfy](https://github.com/sindresorhus/alfy) package for making it so easy to whip up Alfred workflows with JS!
