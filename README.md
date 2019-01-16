@@ -4,7 +4,7 @@ Alfred workflow to search through your Apple Notes (by title).
 
 ## Installation
 
-`yarn global add alfred-apple-notes-search`
+`yarn global add alfred-apple-notes-search` or `npm -g i alfred-apple-notes-search`
 
 ## Usage
 
