@@ -14,9 +14,9 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "alfred-link": "^0.2.1",
+    "alfred-link": "^0.3.1",
     "alfred-notifier": "^0.2.3",
-    "alfy": "*",
-    "better-sqlite3": "^4.1.4"
+    "alfy": "^0.9.1",
+    "better-sqlite3": "^7.1.0"
   }
 }
